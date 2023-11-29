@@ -77,10 +77,11 @@ Design Thinking Report
 	<p>In this process, we have gathered the problems that are faced by the UTM students through the interview and the survey that we have done in the empathizing process. Initially, we define the problem as “How to help students answer the assignments?” However, after seeing the results from the survey and interviews, we identified the issue as “How can we create a platform for students to discuss tough questions?”. </p>
 </p>
 <p>
-	<p>Ideate </p>
+	<p>Ideate</p>
 	<p>During this phase, we brainstormed ideas on how to tackle this problem and thought of a way to help students in a more efficient way. Thus, we proposed a solution where we will develop an app for the students to post questions that they are struggling with.</p>
-</p>
-<p>
+ </p>
+
+<p> 
 	<p>Prototype </p>
 	<p>In this phase, we develop a prototype that is targeted towards UTM students to post questions that they are struggling with and seniors can answer the questions in the prototype. During this process, we are making sure that our product meets all the necessities that the students might need when using our app. </p>
 </p>
