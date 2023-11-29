@@ -17,4 +17,17 @@ Design Thinking Report
 		We conducted a survey to UTM students about the challenges they faced while answering hard questions in assignments. We conducted the survey using Google 		form and sent it to the student MPP telegram group chat. Besides that, we were able to have some phone interviews with a first-year student who is studying 		electronics engineering at the University of Technology Malaysia. Through the interviews, we get to know that the problems faced by students in answering 		assignments.
 	</p>
 	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/e723e9aa-af84-4b88-8d41-41dfc1b70ab5" /></p>
+ 	<p>(Results of the survey)</p>
+  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/ea0dcf69-b920-43ad-a164-afc65b4ddc06"></p>
+   	<p>(Online video call interview with first year student)</p>
 </p>
+<p>
+	<p><b>Define</b></p>
+	<p>
+		We identify the problems that are encountered by the students of UTM when answering tough questions in assignments. The junior student’s inability to access 		senior students to seek help and reluctance to bother lecturers results in uncertainty when answering tough questions. Besides, students also lack of a
+ 		platform to ask challenging questions.
+	</p>
+ 	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/1dbf37c8-af2c-406f-96cd-5cebc2b787ad"</p>
+ </p>
+
+
