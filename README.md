@@ -1,6 +1,6 @@
 Design Thinking Report
-<p> 1. Introduction
-	Design Thinking is the process of creating solutions to solve problems. Every field can use Design Thinking to solve the problems faced in daily life. It can help to improve the products by asking users for feedback after using the product. The design thinking process has five phases that are Empathize, Define, Ideate, Prototype, and Test.
+<p><b> 1. Introduction</b>
+	<p>Design Thinking is the process of creating solutions to solve problems. Every field can use Design Thinking to solve the problems faced in daily life. It can help to improve the products by asking users for feedback after using the product. The design thinking process has five phases that are Empathize, Define, Ideate, Prototype, and Test.</p>
 </p>
 <p>
 2. Detail Step and descriptions and evidence for each phase
