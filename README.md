@@ -59,7 +59,8 @@ Design Thinking Report
 	<p><b>4. Design thinking assessment point </b></p>
 	<p> During the the end of the project demonstration</p>
 	<p>Without the design thinking assessment point, we might produce a subpar app that doesn't meet the needs of our users. By the end of the project demonstration, we did an assessment by asking other students to try to use our prototype. This is because we want to ensure that our app prototype is working smoothly. Besides, we also ask the students for feedback so that we can make a few more improvements to the app. </p>
- 
+</p>
+<p>
 	<p> During the transition between design thinking phases </p>
  
 	<p>Empathize</p>
@@ -78,12 +79,14 @@ Design Thinking Report
 	<p><b>5. Design Thinking Evidence</b></p>
 	<p>The sample work by students working to solve the design challenge</p>
 	<p>Through our survey, we observe that the main problems faced by students while completing assignments, especially when they encounter challenging questions are the lack of access to senior students and the lack of a platform to seek help. They also don’t want to bother the lecturers. Therefore, we decided to develop an app where UTM students can post questions they struggle with. This app also allows seniors to provide solutions and explanations for those questions. Users can use the reward options in the app to provide gifts for seniors who answered their questions.</p>
-
+</p>
+<p>
 	<p> Record for each phase </p>
-	<p> i) Empathy </p>
+	<p> Empathy </p>
 	<p> We need to determine the problems faced by students nowadays while completing assignments with challenging questions. We survey the students who are related to the problem we investigated by using Google form and we also had an interview with first-year students studying electronics engineering to determine their problems which doing assignments with challenging questions. </p>
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/87b7b105-b8c6-4ae3-974b-c9ca691a1195" /></p>
 	<p>(List of Questions for the Interviewees)</p>
+ </p>
  
 
 
