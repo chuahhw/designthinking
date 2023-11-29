@@ -59,7 +59,8 @@ Design Thinking Report
 	<p><b>4. Design thinking assessment point </b></p>
 	<p> During the the end of the project demonstration</p>
 	<p>Without the design thinking assessment point, we might produce a subpar app that doesn't meet the needs of our users. By the end of the project demonstration, we did an assessment by asking other students to try to use our prototype. This is because we want to ensure that our app prototype is working smoothly. Besides, we also ask the students for feedback so that we can make a few more improvements to the app. </p>
-	<p>During the transition between design thinking phases</p>
+ 
+	<p> During the transition between design thinking phases </p>
  
 	<p>Empathize</p>
 	<p>Since our target is the students of UTM, we did a survey using google Forms and sent it to the student MPP telegram group chat. We also interviewed a first-year student to get a better understanding of the issues that are faced by the students. </p>
