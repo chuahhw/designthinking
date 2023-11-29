@@ -103,6 +103,29 @@ Design Thinking Report
 	<p>Define</p>
 	<p>We list out all the problems that we got after conducting the survey and interview. We define that the main problem is a lack of a platform to seek help and ask the steps to solve the challenging questions faced at assignments.</p>
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/8145ebfe-48ca-42f1-9ed8-a80365c67102" /></p>
+ 	<p>(List of Problems)</p>
+</p>
+<p>
+	<p>Ideate</p>
+	<p>We started to brainstorm and think of solutions to solve the problems faced by students at UTM. We wrote all the ideas on a memo pad. Our group came out with a final solution which is to develop an app where UTM students can post questions they struggle with. Seniors can provide solutions to those questions. The reward system is also available in the app.</p>
+	<p>Prototype</p>
+	<p>We created a prototype. The prototype is created using proto.io. We created a page to sign in and out, a home page, a "My Posts" section to check up on previous posts and to see if any seniors have answered your questions, and a section in which users can see questions posted by other students that are referred as "bounties". </p>
+ 	<p>Test</p>
+	<p>We asked other students to help us open our prototype to check whether the prototype worked perfectly. After they tested our prototype, we also asked them to give some feedback so that we could improve our app in the future.</p>
+</p>
+
+<p>
+	<p><b>6. Reflections </b></p>
+	<p>1.	What is your goal/dream with regard to your course/program?</p>
+	<p>Our goal is to become a successful programmer in the future. We hope to learn a lot of different programming languages in this course. So that in the future, we could create our own website or apps.</p>
+	<p>2.	How does this design thinking impact on your goal/dream with regard to your program?</p>
+	<p>After doing this design thinking, we learned how to communicate with our teammates to get great ideas to build apps. We also learned how to build an app prototype using proto.io software. Team working skills are important to be a successful programmer in the future. So learning how to work with others through design thinking, it would help us as a programmer in the future.</p>
+	<p>3.	What is the action/improvement/plan necessary for you to improve your potential in the industry?</p>
+	<p>We should always be hardworking and learn new knowledge about programming skills to be skillful programmers. We also plan to enhance our skills in backend and frontend coding by watching tutorial videos on Youtube.</p>
+</p>
+<p>
+	<p>7. Task of each member </p>
+	<p>Rifqi wrote ideate and prototype. Benjamin wrote detailed steps, and detailed descriptions of problems, solutions, and team working. Iman wrote to define and design thinking assessment points. Hui Wen wrote the introduction, empathize, and design thinking evidence. Faisal mainly did the prototype with other members' help. </p>
 </p>
 
 
