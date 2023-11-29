@@ -55,29 +55,29 @@ Design Thinking Report
 </p>
 <p>
 	<p><b>3. Detailed Description (Problems, Solution, Team working)</b></p>
-	<p>Problems</p>
+	<p><b>Problems</b></p>
 	<p>From data collected from the Google form survey, we found that the majority of the students would rather not bother lecturers when they encounter hard questions. Students also lack a proper platform to seek guidance for their questions. After the interview, we know that the student does not have senior friends to ask for help when encountering challenging questions.</p>
-	<p>Solutions</p>
+	<p><b>Solutions</b></p>
 	<p>We started to discuss the solutions to the problems and brainstorm for the solutions. Through some discussions, we settled on a solution which is to create a forum-style Application exclusive to UTM students where students can post questions to be solved by seniors. To increase the motivation for the seniors to solve questions for juniors, we decided to implement a bounty system which users can choose to reward their answerer.</p>
-	<p>Team working</p>
+	<p><b>Team working</b></p>
 	<p>In the process of doing this project, we had some conflicts due to different opinions but eventually, all of us came to an agreement after communication. After that, we divided our tasks and each of us proceeded smoothly. When encountering problems during tasks such as project writing and prototyping, we solved them through group discussions steadily. In the end, we were able to finish the project in time with our team working.</p>
 </p>
 <p>
 	<p><b>4. Design thinking assessment point </b></p>
-	<p> During the the end of the project demonstration</p>
+	<p><b>During the the end of the project demonstration</b></p>
 	<p>Without the design thinking assessment point, we might produce a subpar app that doesn't meet the needs of our users. By the end of the project demonstration, we did an assessment by asking other students to try to use our prototype. This is because we want to ensure that our app prototype is working smoothly. Besides, we also ask the students for feedback so that we can make a few more improvements to the app. </p>
 </p>
 <p>
-	<p> During the transition between design thinking phases</p>
-	<p>Empathize</p>
+	<p><b>During the transition between design thinking phases</b></p>
+	<p><b>Empathize</b></p>
 	<p>Since our target is the students of UTM, we did a survey using google Forms and sent it to the student MPP telegram group chat. We also interviewed a first-year student to get a better understanding of the issues that are faced by the students. </p>
 </p>
 <p>
-	<p>Define </p>
+	<p><b>Define</b> </p>
 	<p>In this process, we have gathered the problems that are faced by the UTM students through the interview and the survey that we have done in the empathizing process. Initially, we define the problem as “How to help students answer the assignments?” However, after seeing the results from the survey and interviews, we identified the issue as “How can we create a platform for students to discuss tough questions?”. </p>
 </p>
 <p>
-	<p>Ideate</p>
+	<p><b>Ideate</b></p>
 	<p>During this phase, we brainstormed ideas on how to tackle this problem and thought of a way to help students in a more efficient way. Thus, we proposed a solution where we will develop an app for the students to post questions that they are struggling with.</p>
  </p>
 
@@ -87,30 +87,30 @@ Design Thinking Report
 </p>
 <p>
 	<p><b>5. Design Thinking Evidence</b></p>
-	<p>The sample work by students working to solve the design challenge</p>
+	<p><b>The sample work by students working to solve the design challenge</b></p>
 	<p>Through our survey, we observe that the main problems faced by students while completing assignments, especially when they encounter challenging questions are the lack of access to senior students and the lack of a platform to seek help. They also don’t want to bother the lecturers. Therefore, we decided to develop an app where UTM students can post questions they struggle with. This app also allows seniors to provide solutions and explanations for those questions. Users can use the reward options in the app to provide gifts for seniors who answered their questions.</p>
 </p>
 <p>
-	<p> Record for each phase </p>
+	<p><b>Record for each phase</b> </p>
  </p>
  <p>
-	<p> Empathy </p>
+	<p><b> Empathy</b> </p>
 	<p> We need to determine the problems faced by students nowadays while completing assignments with challenging questions. We survey the students who are related to the problem we investigated by using Google form and we also had an interview with first-year students studying electronics engineering to determine their problems which doing assignments with challenging questions. </p>
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/87b7b105-b8c6-4ae3-974b-c9ca691a1195" /></p>
 	<p>(List of Questions for the Interviewees)</p>
  </p>
 <p>
-	<p>Define</p>
+	<p><b>Define</b></p>
 	<p>We list out all the problems that we got after conducting the survey and interview. We define that the main problem is a lack of a platform to seek help and ask the steps to solve the challenging questions faced at assignments.</p>
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/8145ebfe-48ca-42f1-9ed8-a80365c67102" /></p>
  	<p>(List of Problems)</p>
 </p>
 <p>
-	<p>Ideate</p>
+	<p><b>Ideate</b></p>
 	<p>We started to brainstorm and think of solutions to solve the problems faced by students at UTM. We wrote all the ideas on a memo pad. Our group came out with a final solution which is to develop an app where UTM students can post questions they struggle with. Seniors can provide solutions to those questions. The reward system is also available in the app.</p>
-	<p>Prototype</p>
+	<p><b>Prototype</b></p>
 	<p>We created a prototype. The prototype is created using proto.io. We created a page to sign in and out, a home page, a "My Posts" section to check up on previous posts and to see if any seniors have answered your questions, and a section in which users can see questions posted by other students that are referred as "bounties". </p>
- 	<p>Test</p>
+ 	<p><b>Test</b></p>
 	<p>We asked other students to help us open our prototype to check whether the prototype worked perfectly. After they tested our prototype, we also asked them to give some feedback so that we could improve our app in the future.</p>
 </p>
 
@@ -124,7 +124,7 @@ Design Thinking Report
 	<p>We should always be hardworking and learn new knowledge about programming skills to be skillful programmers. We also plan to enhance our skills in backend and frontend coding by watching tutorial videos on Youtube.</p>
 </p>
 <p>
-	<p>7. Task of each member </p>
+	<p><b>7. Task of each member</b> </p>
 	<p>Rifqi wrote ideate and prototype. Benjamin wrote detailed steps, and detailed descriptions of problems, solutions, and team working. Iman wrote to define and design thinking assessment points. Hui Wen wrote the introduction, empathize, and design thinking evidence. Faisal mainly did the prototype with other members' help. </p>
 </p>
 
