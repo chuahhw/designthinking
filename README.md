@@ -99,7 +99,14 @@ Design Thinking Report
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/87b7b105-b8c6-4ae3-974b-c9ca691a1195" /></p>
 	<p>(List of Questions for the Interviewees)</p>
  </p>
- 
+<p>
+	<p>Define</p>
+	<p>We list out all the problems that we got after conducting the survey and interview. We define that the main problem is a lack of a platform to seek help and ask the steps to solve the challenging questions faced at assignments.</p>
+ 	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/8145ebfe-48ca-42f1-9ed8-a80365c67102" /></p>
+</p>
+
+
+
 
 
 
