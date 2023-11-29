@@ -82,8 +82,13 @@ Design Thinking Report
  </p>
 
 <p> 
-	<p>Prototype </p>
+	<p><b>Prototype</b> </p>
 	<p>In this phase, we develop a prototype that is targeted towards UTM students to post questions that they are struggling with and seniors can answer the questions in the prototype. During this process, we are making sure that our product meets all the necessities that the students might need when using our app. </p>
+</p>
+<p>
+	<p>Test</p>
+	<p>We test our prototype by asking other students to use the prototype. This is to ensure that our prototype is able to use nicely and we can fix and improve the app if there are any problems.
+</p>
 </p>
 <p>
 	<p><b>5. Design Thinking Evidence</b></p>
