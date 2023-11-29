@@ -82,6 +82,8 @@ Design Thinking Report
 </p>
 <p>
 	<p> Record for each phase </p>
+ </p>
+ <p>
 	<p> Empathy </p>
 	<p> We need to determine the problems faced by students nowadays while completing assignments with challenging questions. We survey the students who are related to the problem we investigated by using Google form and we also had an interview with first-year students studying electronics engineering to determine their problems which doing assignments with challenging questions. </p>
  	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/87b7b105-b8c6-4ae3-974b-c9ca691a1195" /></p>
