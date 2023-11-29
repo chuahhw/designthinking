@@ -1,4 +1,4 @@
-Design Thinking Report
+# Design Thinking Report
 <p>
 	<b> 1. Introduction</b>
 	<p>
@@ -135,6 +135,9 @@ Design Thinking Report
 
 https://github.com/chuahhw/designthinking/assets/147809633/77fd66b2-0358-47ca-b424-f32664d77057
 
+<h2>What's Next</h2>
+<a href="https://github.com/chuahhw">Home</a>
+<a href="https://github.com/chuahhw/tis">TIS</a>
 
 
 
