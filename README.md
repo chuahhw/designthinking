@@ -57,9 +57,9 @@ Design Thinking Report
 </p>
 <p>
 	<p><b>4. Design thinking assessment point </b></p>
-	<p>a. During the the end of the project demonstration</p>
+	<p> During the the end of the project demonstration</p>
 	<p>Without the design thinking assessment point, we might produce a subpar app that doesn't meet the needs of our users. By the end of the project demonstration, we did an assessment by asking other students to try to use our prototype. This is because we want to ensure that our app prototype is working smoothly. Besides, we also ask the students for feedback so that we can make a few more improvements to the app. </p>
-	<p>b. During the transition between design thinking phases</p>
+	<p> During the transition between design thinking phases</p>
  
 	<p>Empathize</p>
 	<p>Since our target is the students of UTM, we did a survey using google Forms and sent it to the student MPP telegram group chat. We also interviewed a first-year student to get a better understanding of the issues that are faced by the students. </p>
@@ -70,16 +70,20 @@ Design Thinking Report
 	<p>Ideate </p>
 	<p>During this phase, we brainstormed ideas on how to tackle this problem and thought of a way to help students in a more efficient way. Thus, we proposed a solution where we will develop an app for the students to post questions that they are struggling with.</p>
 
-Prototype 
-In this phase, we develop a prototype that is targeted towards UTM students to post questions that they are struggling with and seniors can answer the questions in the prototype. During this process, we are making sure that our product meets all the necessities that the students might need when using our app. 
+	<p>Prototype </p>
+	<p>In this phase, we develop a prototype that is targeted towards UTM students to post questions that they are struggling with and seniors can answer the questions in the prototype. During this process, we are making sure that our product meets all the necessities that the students might need when using our app. </p>
+</p>
+<p>
+	<p><b>5. Design Thinking Evidence</b></p>
+	<p>The sample work by students working to solve the design challenge</p>
+	<p>Through our survey, we observe that the main problems faced by students while completing assignments, especially when they encounter challenging questions are the lack of access to senior students and the lack of a platform to seek help. They also don’t want to bother the lecturers. Therefore, we decided to develop an app where UTM students can post questions they struggle with. This app also allows seniors to provide solutions and explanations for those questions. Users can use the reward options in the app to provide gifts for seniors who answered their questions.</p>
 
-5. Design Thinking Evidence
-a. The sample work by students working to solve the design challenge
-Through our survey, we observe that the main problems faced by students while completing assignments, especially when they encounter challenging questions are the lack of access to senior students and the lack of a platform to seek help. They also don’t want to bother the lecturers. Therefore, we decided to develop an app where UTM students can post questions they struggle with. This app also allows seniors to provide solutions and explanations for those questions. Users can use the reward options in the app to provide gifts for seniors who answered their questions.
-
-b. Record for each phase
-i) Empathy
-We need to determine the problems faced by students nowadays while completing assignments with challenging questions. We survey the students who are related to the problem we investigated by using Google form and we also had an interview with first-year students studying electronics engineering to determine their problems which doing assignments with challenging questions.
+	<p> Record for each phase </p>
+	<p> i) Empathy </p>
+	<p> We need to determine the problems faced by students nowadays while completing assignments with challenging questions. We survey the students who are related to the problem we investigated by using Google form and we also had an interview with first-year students studying electronics engineering to determine their problems which doing assignments with challenging questions. </p>
+ 	<p><img src="https://github.com/chuahhw/designthinking/assets/147809633/87b7b105-b8c6-4ae3-974b-c9ca691a1195" /></p>
+	<p>(List of Questions for the Interviewees)</p>
+ 
 
 
 
