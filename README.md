@@ -39,7 +39,7 @@
  <p>
 	 <p><b>Prototype</b></p>
 	<p></p>After that, we created a prototype. In our prototype, students can post questions and answer the questions of others as well. Monetary rewards for more complicated questions are also available. The prototype includes a page to sign in and out, with data saved for future reference, a home page for quick access and regularly used functions, a "My Posts" section to check up on previous posts and to see if anyone has answered your questions and section dedicated to other questions posted by students that are referred as "bounties". Students can navigate these "bounties" and click to show a more detailed context of the question. Prototype is created using software proto.io.</p>
- <p>Reactive prototype link: <a href="https://share.proto.io/5L37J4/">prototype</a></p>
+ <p>Reactive prototype link: <a href="https://share.proto.io/5L37J4/">https://share.proto.io/5L37J4/</a></p>
  
 <p>
 	<img width="200" height="300" src="https://github.com/chuahhw/designthinking/assets/147809633/85484a23-a35e-4483-b250-f5646b5d9a3f" />
