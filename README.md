@@ -133,7 +133,8 @@
 	<p>Rifqi wrote ideate and prototype. Benjamin wrote detailed steps, and detailed descriptions of problems, solutions, and team working. Iman wrote to define and design thinking assessment points. Hui Wen wrote the introduction, empathize, and design thinking evidence. Faisal mainly did the prototype with other members' help. </p>
 </p>
 
-https://github.com/chuahhw/designthinking/assets/147809633/77fd66b2-0358-47ca-b424-f32664d77057
+<p>Video: </p>
+<a href="https://www.youtube.com/watch?v=kCRdQO0kGoY">Youtube Video</a>
 
 <h2>What's Next</h2>
 <a href="https://github.com/chuahhw">Home</a>
