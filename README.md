@@ -24,6 +24,8 @@ https://github.com/chuahhw/designthinking/assets/147809633/658f84fb-cb63-4446-b9
 <p>3. How do you generate an income for the app maintainance?</p>
 <p>Answer: We mostly generate our income through ads. </p>
 
+<h2>Reflections</h2>
+<p>After doing design thinking, I learned how to communicate with our teammates to get great ideas to build apps. I also learned how to build an app prototype using proto.io software witht the help of my teammates. The improvement that I want to make in the future is I want to build a better prototype, this is the first time I build an app protoype, the prototype is not perfect yet, I would like to make a nicer prototype in the future. In my opinion, I am very greateful to have my teammates for this design thinking project, teamwork is very important, I would not be able to finish this project without my teammates' help.</p>
 
 <h2>What's Next</h2>
 
