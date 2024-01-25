@@ -2,16 +2,16 @@
 <h2>Introduction</h2>
 <p>We did our design thinking presentation on 20 December 2023. We present our slides for around 10 minutes and we have a Q and A session for around 5 minutes.</p>
 
-Report pdf file: 
+<h2>Report pdf file: </h2>
 <p>
   <a href="https://github.com/chuahhw/TIS/files/14034809/Section.5.Group.4.5.pdf">Design Thinking Report</a></p>
 </p>
 
-Design Thinking Video: 
+<h2>Design Thinking Video: </h2>
 
 https://github.com/chuahhw/designthinking/assets/147809633/658f84fb-cb63-4446-b92f-777dbcfd77e2
 
-Design Thinking Presentation
+<h2>Design Thinking Presentation: </h2>
 <p>Slides:
 <a href= https://www.canva.com/design/DAF3O7nAvys/Nioyerdo8S1O12F2f7ejLQ/view?utm_content=DAF3O7nAvys&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">https://www.canva.com/design/DAF3O7nAvys/Nioyerdo8S1O12F2f7ejLQ/view?utm_content=DAF3O7nAvys&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpane</a></p>
 
