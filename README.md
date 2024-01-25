@@ -1,6 +1,7 @@
 # Design Thinking 
 <h2>Introduction</h2>
-<p>We did our design thinking presentation on 20 December 2023. We present our slides for around 10 minutes and we have a Q and A session for around 5 minutes.</p>
+<p>Design Thinking is the process of creating solutions to solve problems.  It can help to improve the products by asking users for feedback after using the product.
+The design thinking process has five phases that are Empathize, Define, Ideate, Prototype, and Test. We submitted our prototype and report on 30th November 2023. We did our design thinking presentation on 20 December 2023. We present our slides for around 10 minutes and we have a Q and A session for around 5 minutes.</p>
 
 <h2>Report pdf file: </h2>
 <p>
